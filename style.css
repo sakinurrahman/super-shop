@@ -1,0 +1,23 @@
+.v {
+    padding-right: 30px;
+}
+.carousel {
+    height:;
+}
+
+.container {
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.price {
+    text-align: center;
+}
+.card-footer {
+    text-align: center;
+}
+.seemore {
+    float: right;
+}
